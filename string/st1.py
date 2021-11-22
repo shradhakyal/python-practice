@@ -1,4 +1,6 @@
-#count no of upper case ,lower case,digits and whitespace in a string
+# string_count-digit.py
+# count no of upper case ,lower case,digits and whitespace in a string
+
 
 x=input("Enter a string")
 ct1=0
